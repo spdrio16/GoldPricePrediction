@@ -1,5 +1,6 @@
 # GoldPricePrediction
-Gold Price Prediction Using Fuzzy Logic
+
+Gold Price Prediction is a machine learning and time-series forecasting application used to estimate future gold prices based on historical financial market data. It involves analyzing previous gold price trends, market fluctuations, and sequential patterns using deep learning models such as LSTM and Bi-LSTM. Advanced techniques like fuzzy logic can also be integrated to handle uncertainty and nonlinear market behavior, improving forecasting accuracy and interpretability for financial analysis and investment decision-making.
 
 **Tech Stack:** _Python, TensorFlow, LSTM, Bi-LSTM, FastAPI, yFinance API, Skfuzzy, Pandas, NumPy, Matplotlib, HTML/CSS, Jinja2_
 
